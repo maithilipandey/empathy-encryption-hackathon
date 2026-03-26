@@ -134,7 +134,7 @@ These follow balanced, human-friendly patterns:
 * BrightPath8
 * SilentHill4
 
----
+--
 
 ## ❌ Sample Rejected Passwords
 
